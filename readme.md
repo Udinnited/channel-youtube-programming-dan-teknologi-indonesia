@@ -90,7 +90,7 @@
 | Livander Gamedev |           | [link](https://www.youtube.com/c/LivanderGamedev)                |
 | Andy Lukito      |           | [link](https://www.youtube.com/c/AndyLukito)                     |
 | JustCode         |           | [link](https://www.youtube.com/channel/UCWcNXmY0sdUntgfp_xRvn8Q) |
-| Sulaeman Santoso | Godot     | [link](https://www.youtube.com/c/sulaemansantoso)                |
+| Sulaeman Santoso |           | [link](https://www.youtube.com/c/sulaemansantoso)                |
 
 <br><hr>
 
